@@ -1,0 +1,28 @@
+@font-face {
+  font-family: IranNastaliq;
+  src: url('static/fonts/IranNastaliq.ttf') format('embedded-opentype'),
+}
+
+@font-face {
+  font-family: Traffic;
+  src: url('static/fonts/Traffic.ttf') format('embedded-opentype'),
+}
+
+@font-face {
+  font-family: IRANSans;
+  src: url('static/fonts/IRANSans.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: Trafficb;
+  src: url('static/fonts/Trafficb.ttf') format('embedded-opentype'),
+}
+
+
+/* @font-face {
+  font-family: BNazanin;
+  src: url('static/fonts/BNazanin.ttf') format('embedded-opentype'),
+} */
+/* body {
+  font-family: Traffic;
+} */
